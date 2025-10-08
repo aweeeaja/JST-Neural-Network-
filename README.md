@@ -1,4 +1,4 @@
-# JST-Neural-Network-# 🧠 Jaringan Syaraf Tiruan (Neural Network Projects)
+# 🧠 Jaringan Syaraf Tiruan (Neural Network Projects)
 
 Repositori ini berisi kumpulan implementasi berbagai arsitektur **Jaringan Syaraf Tiruan (JST / Neural Network)** menggunakan **Python dan TensorFlow/Keras**.  
 Proyek ini dibuat untuk mempelajari dan membandingkan performa berbagai jenis jaringan seperti SLP, MLP, CNN, dan RNN pada berbagai kasus dataset sederhana.
